@@ -8,7 +8,8 @@
 - ガイダンス-プログラミングとは
 - ユーザー登録
   - Unity / Paiza
-- Visual Studio の起動
-- Unityの体験
-- 自分で作る教科書
+- Visual Studioを試す
+- Unityを試す
+- ドットインストールでの学び方
+- Paizaでの学び方
 
