@@ -14,3 +14,12 @@
 - Paizaでの学び方
 - e-typing練習
 
+# C#教科書の開始方法
+- GitHubにSign in
+- https://github.com/tanakaedu/csharp-man を右クリックして、新しいウィンドウで開く
+- Forkする
+- [Clone or download]ボタンをクリックして、[Open in Desktop]をクリック
+- そのままの場所でよいので、クローンする
+- GitHub Desktop が開いたら、右上の[Atom]ボタンをクリック
+
+以上で、Atomでプロジェクトが開きます。Atomで編集して、保存をしたら、GitHub Desktopで Commit > Sync します。
