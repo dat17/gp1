@@ -5,6 +5,10 @@
 - [シラバス](syllabus.md)
 
 # 1回目
+- SMSの設定確認
+  - [docomoのSMS設定](https://www.nttdocomo.co.jp/info/spam_mail/sms/)
+  - [auのSMS設定](https://www.au.com/mobile/service/mail/sms/)
+  - [SoftbankのSMS設定](http://faq.mb.softbank.jp/detail.aspx?cid=78827&id=78827)
 - ガイダンス-プログラミングとは
 - ユーザー登録
   - Unity / Paiza
