@@ -4,6 +4,12 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
+# 2回目
+- C# 書く教科書
+- Unityで同じことをやってみる
+- e-typing練習
+  - [タイピング練習サービス e-typing](https://www.e-typing.ne.jp/)
+
 # 1回目
 - SMSの設定確認
   - [docomoのSMS設定](https://www.nttdocomo.co.jp/info/spam_mail/sms/)
@@ -18,8 +24,6 @@
   - [ドットインストール Unity(4.2)入門](http://dotinstall.com/lessons/basic_unity)
 - Paizaでの学び方
   - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
-- e-typing練習
-  - [タイピング練習サービス e-typing](https://www.e-typing.ne.jp/)
 
 # C#教科書の開始方法
 - GitHubにSign in
