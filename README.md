@@ -11,8 +11,11 @@
 - Visual Studioを試す
 - Unityを試す
 - ドットインストールでの学び方
+  - [ドットインストール Unity(4.2)入門](http://dotinstall.com/lessons/basic_unity)
 - Paizaでの学び方
+  - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
 - e-typing練習
+  - [タイピング練習サービス e-typing](https://www.e-typing.ne.jp/)
 
 # C#教科書の開始方法
 - GitHubにSign in
@@ -23,3 +26,13 @@
 - GitHub Desktop が開いたら、右上の[Atom]ボタンをクリック
 
 以上で、Atomでプロジェクトが開きます。Atomで編集して、保存をしたら、GitHub Desktopで Commit > Sync します。
+
+# 参考URL
+- [Unity](http://japan.unity3d.com/)
+- [ドットインストール](http://dotinstall.com/)
+  - [ドットインストール Unity(4.2)入門](http://dotinstall.com/lessons/basic_unity)
+- [Paizaラーニング](https://paiza.jp/works)
+  - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
+- [タイピング練習サービス e-typing](https://www.e-typing.ne.jp/)
+- [Phaserをサンドボックスで試すチュートリアル](http://am1tanaka.hatenablog.com/entry/2017/04/19/211234)
+
