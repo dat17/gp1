@@ -35,4 +35,4 @@
   - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
 - [タイピング練習サービス e-typing](https://www.e-typing.ne.jp/)
 - [Phaserをサンドボックスで試すチュートリアル](http://am1tanaka.hatenablog.com/entry/2017/04/19/211234)
-
+- [C# 書く教科書](https://github.com/tanakaedu/csharp-man)
