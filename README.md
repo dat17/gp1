@@ -5,8 +5,8 @@
 - [シラバス](syllabus.md)
 
 # 2回目
-- C# 書く教科書
-- Unityで同じことをやってみる
+- [C# 書く教科書](02.md)
+- [Tyrano Script](https://github.com/dat17/design/blob/master/02_tyrano.md)
 - e-typing練習
   - [タイピング練習サービス e-typing](https://www.e-typing.ne.jp/)
 
