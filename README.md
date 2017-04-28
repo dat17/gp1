@@ -4,6 +4,24 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
+# 3回目
+## 先週の成果物
+- [C# 書く教科書 Visual C#の基本操作](https://github.com/dat17/csharp-manual/blob/master/01.md)
+
+## 休んだ人は・・・
+- Google Chrome を起動して、 https://github.com を表示
+- 右上の Sign in をクリックして、サインインする(すでに自分のアカウントでサインインしていたらこの手順は不要。他人のものだったら、右上のアイコンをクリックして、[Sign out]を選択してサインアウトしてから、改めて Sign in する)
+- https://github.com/dat17/csharp-manual を右クリックして、新しいウィンドウで開く
+- 開いたウィンドウの画面右上の[Fork]をクリック
+
+以上です。
+
+## 予定
+- C# 書く教科書のプログラミングの肝から
+- Paizaラーニングで学んだことの復習
+
+---
+
 # 2回目
 - [C# 書く教科書 はじめ方](02.md)
 - [Tyrano Script](https://github.com/dat17/design/blob/master/02_tyrano.md)
