@@ -5,7 +5,7 @@
 - [シラバス](syllabus.md)
 
 # 2回目
-- [C# 書く教科書](02.md)
+- [C# 書く教科書 はじめ方](02.md)
 - [Tyrano Script](https://github.com/dat17/design/blob/master/02_tyrano.md)
 - e-typing練習
   - [タイピング練習サービス e-typing](https://www.e-typing.ne.jp/)
@@ -25,15 +25,6 @@
 - Paizaでの学び方
   - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
 
-# C#教科書の開始方法
-- GitHubにSign in
-- https://github.com/tanakaedu/csharp-man を右クリックして、新しいウィンドウで開く
-- Forkする
-- [Clone or download]ボタンをクリックして、[Open in Desktop]をクリック
-- そのままの場所でよいので、クローンする
-- GitHub Desktop が開いたら、右上の[Atom]ボタンをクリック
-
-以上で、Atomでプロジェクトが開きます。Atomで編集して、保存をしたら、GitHub Desktopで Commit > Sync します。
 
 # 参考URL
 - [Unity](http://japan.unity3d.com/)
