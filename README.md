@@ -5,6 +5,10 @@
 - [シラバス](syllabus.md)
 
 # 3回目
+## 準備
+- github を開いて、 sign in する
+- Visual C# を起動しておく
+
 ## 先週の成果物
 - [C# 書く教科書 Visual C#の基本操作](https://github.com/dat17/csharp-manual/blob/master/01.md)
 
