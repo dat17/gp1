@@ -7,7 +7,7 @@
 # 5回目
 ## 準備
 - github を開いて、 sign in する
-- Visual Studio 2013 を起動して、 move-button2 というプロジェクトを作成しておく
+- Visual Studio 2013 を起動して、 if-rensyu というプロジェクトを作成しておく
 
 ## 休んだ人は・・・
 - Google Chrome を起動して、 https://github.com を表示
