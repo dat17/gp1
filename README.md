@@ -4,10 +4,10 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
-# 5回目
+# 6回目
 ## 準備
-- github を開いて、 sign in する
-- Visual Studio 2013 を起動して、 if-rensyu というプロジェクトを作成しておく
+- github.com を開いて、 sign in する
+- Visual Studio 2013 を起動して、先週のプロジェクト(if-rensyu)を開く
 
 ## 休んだ人は・・・
 - Google Chrome を起動して、 https://github.com を表示
@@ -19,9 +19,18 @@
 以上。
 
 ## 予定
-- 変数から
-- Unityで同じことをやる
+- Visual C#での跳ね返りを完成させる
+- Unityのhanekaeriを読み込んで、同じ動きをUnityで実装して、違いを比較する
 - Paiza続き
+
+# 5回目
+## 準備
+- github を開いて、 sign in する
+- Visual Studio 2013 を起動して、 if-rensyu というプロジェクトを作成しておく
+
+## 内容
+- 変数からifまで
+- Unityでボールを動かす
 
 # 4回目
 ## 内容
