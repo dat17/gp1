@@ -5,10 +5,6 @@
 - [シラバス](syllabus.md)
 
 # 7回目
-## 準備
-- github.com を開いて、 sign in する
-- Visual Studio 2013 を起動して、先週のプロジェクト(if-rensyu)を開く
-
 ## 休んだ人は・・・
 - Google Chrome を起動して、 https://github.com を表示
 - 右上の Sign in をクリックして、サインインする(すでに自分のアカウントでサインインしていたらこの手順は不要。他人のものだったら、右上のアイコンをクリックして、[Sign out]を選択してサインアウトしてから、改めて Sign in する)
