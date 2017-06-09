@@ -21,6 +21,8 @@
 ## 予定
 - 前回の復習
   - [演習8-1](https://github.com/dat17/csharp-manual/blob/master/08.md#%E6%BC%94%E7%BF%928-1)から、一通り手順に従って進めて、ラベルが画面内を跳ね返るプログラムを完成させよう
+  - 跳ね返り座標を計算するためのイメージ
+![](./images/img0800.png)
 - Unityのhanekaeriを読み込んで、同じ動きをUnityで実装して、違いを比較する
 - Paiza続き
 
