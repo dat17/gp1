@@ -4,8 +4,9 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
-# .gitignoreが作られなかった場合・・・
-- https://www.gitignore.io/ で生成して、プロジェクトに加えるとよい
+# 参考URL
+- [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
+- [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 8回目
 ## 休んだ人は・・・
