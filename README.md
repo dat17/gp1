@@ -4,7 +4,7 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
-# 7回目
+# 8回目
 ## 休んだ人は・・・
 - Google Chrome を起動して、 https://github.com を表示
 - 右上の Sign in をクリックして、サインインする(すでに自分のアカウントでサインインしていたらこの手順は不要。他人のものだったら、右上のアイコンをクリックして、[Sign out]を選択してサインアウトしてから、改めて Sign in する)
@@ -15,12 +15,21 @@
 以上。
 
 ## 予定
+- switch文と変数の型変換の表を完成させる
+- マウス操作
+- if文その2　マウスと重なったら停止
+- Unityのhanekaeriを読み込んで、同じ動きをUnityで実装して、違いを比較する
+- Paiza
+
+# 7回目
+## 内容
 - 前回の復習
   - [演習8-1](https://github.com/dat17/csharp-manual/blob/master/08.md#%E6%BC%94%E7%BF%928-1)から、一通り手順に従って進めて、ラベルが画面内を跳ね返るプログラムを完成させよう
   - 跳ね返り座標を計算するためのイメージ
+- GitHubに、move-labelsでプッシュ済み
 ![](./images/img0800.png)
 - Unityのhanekaeriを読み込んで、同じ動きをUnityで実装して、違いを比較する
-- Paiza続き
+- GitHubに、hanekaeriでコミット。プッシュはしてない
 
 # 6回目
 ## 準備
