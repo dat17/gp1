@@ -4,6 +4,9 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
+# .gitignoreが作られなかった場合・・・
+- https://www.gitignore.io/ で生成して、プロジェクトに加えるとよい
+
 # 8回目
 ## 休んだ人は・・・
 - Google Chrome を起動して、 https://github.com を表示
