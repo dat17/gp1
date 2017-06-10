@@ -10,8 +10,8 @@
 
 # 8回目
 ## 7回目にUnityでやったこと
-- [2017/6/9 GP1-8 Unityでボールを画面内で跳ね返らせる](https://www.youtube.com/watch?v=lVaOYDGzNk8&cc_load_policy=1&fs=1&rel=0&autoplay=1)
-- [2017/6/9 GP1-8 Unityの描画のオンオフ](https://www.youtube.com/watch?v=vaPkJTphaWY&cc_load_policy=1&fs=1&rel=0&autoplay=1)
+- [2017/6/9 GP1-8 Unityでボールを画面内で跳ね返らせる](https://www.youtube.com/embed/lVaOYDGzNk8?cc_load_policy=1&fs=1&rel=0&autoplay=1)
+- [2017/6/9 GP1-8 Unityの描画のオンオフ](https://www.youtube.com/embed/vaPkJTphaWY?cc_load_policy=1&fs=1&rel=0&autoplay=1)
 
 ## 休んだ人は・・・
 - Google Chrome を起動して、 https://github.com を表示
