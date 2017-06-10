@@ -9,6 +9,10 @@
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 8回目
+## 7回目にUnityでやったこと
+- [2017/6/9 GP1-8 Unityでボールを画面内で跳ね返らせる](https://youtu.be/lVaOYDGzNk8&cc_load_policy=1&fs=1&rel=0&autoplay=1)
+- [2017/6/9 GP1-8 Unityの描画のオンオフ](https://youtu.be/vaPkJTphaWY&cc_load_policy=1&fs=1&rel=0&autoplay=1)
+
 ## 休んだ人は・・・
 - Google Chrome を起動して、 https://github.com を表示
 - 右上の Sign in をクリックして、サインインする(すでに自分のアカウントでサインインしていたらこの手順は不要。他人のものだったら、右上のアイコンをクリックして、[Sign out]を選択してサインアウトしてから、改めて Sign in する)
