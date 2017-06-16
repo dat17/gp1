@@ -34,6 +34,7 @@
 - [gamesindustry 本格的モーションキャプチャスタジオやVR機器などを無償で提供，リクルートテクノロジーズがオープンイノベーションスペースを開設](http://jp.gamesindustry.biz/article/1706/17061501/)
 
 ## 予定
+- [今日のライブストリーミング](https://www.youtube.com/embed/lgiQHRjEmBw)
 - switch文と変数の型変換の表を完成させる
 - マウス操作
 - if文その2　マウスと重なったら停止
