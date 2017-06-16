@@ -22,7 +22,11 @@
 - https://github.com/tanakaedu/move-labels を右クリックして、新しいウィンドウで開く
 - 開いたウィンドウの画面右上の[Fork]をクリック
 - GitHub Desktopを起動
-- 自分のアカウントでログインしているか確認
+- [自分のアカウントでログインしているか確認](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508#%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E7%A2%BA%E8%AA%8D)
+- 画面左上の[+]をクリック
+- [Clone]をクリック
+- move-labelsをクリックして、Clone
+- クローン先は、そのままの場所で良いので、そのまま[OK]
 
 以上。
 
