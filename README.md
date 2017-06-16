@@ -16,9 +16,13 @@
 ## 休んだ人は・・・
 - Google Chrome を起動して、 https://github.com を表示
 - 右上の Sign in をクリックして、サインインする(すでに自分のアカウントでサインインしていたらこの手順は不要。他人のものだったら、右上のアイコンをクリックして、[Sign out]を選択してサインアウトしてから、改めて Sign in する)
-- 自分のアカウントの csharp-manual リポジトリーを削除
+- 自分のアカウントの csharp-manual [リポジトリーを削除](http://qiita.com/PlanetMeron/items/4d164eff7bff2243cf06)
 - https://github.com/dat17/csharp-manual を右クリックして、新しいウィンドウで開く
 - 開いたウィンドウの画面右上の[Fork]をクリック
+- https://github.com/tanakaedu/move-labels を右クリックして、新しいウィンドウで開く
+- 開いたウィンドウの画面右上の[Fork]をクリック
+- GitHub Desktopを起動
+- 自分のアカウントでログインしているか確認
 
 以上。
 
