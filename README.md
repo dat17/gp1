@@ -8,7 +8,7 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
-# 9回目
+# 9回目(6/23)
 ## 8回目にやったこと
 - [1コマ目 C#](https://www.youtube.com/embed/kkYjFjGVsdY)
   - C# 違う変数型への代入方法
