@@ -8,6 +8,17 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 9回目
+## 8回目にやったこと
+- [1コマ目](https://www.youtube.com/embed/kkYjFjGVsdY)
+  - C# 違う変数型への代入方法
+  - switch文
+  - マウス入力
+  - オフセットとピボット
+  - コミットとSync
+  - ifその2。複合で当たり判定
+- [2コマ目]()
+
 # 8回目
 ## 7回目にUnityでやったこと
 - [2017/6/9 GP1-8 Unityでボールを画面内で跳ね返らせる](https://www.youtube.com/embed/lVaOYDGzNk8?cc_load_policy=1&fs=1&rel=0&autoplay=1)
