@@ -17,7 +17,7 @@
   - オフセットとピボット
   - コミットとSync
   - ifその2。複合で当たり判定
-- [2コマ目 Unity]()
+- [2コマ目 Unity](https://www.youtube.com/embed/E3OvAjHDvso)
   - 同じプレハブから作成したオブジェクトの共通の振る舞いを設定するには、プレハブで作業する
   - OnMouseEnter()を使う
   - Debug.Logで表示
