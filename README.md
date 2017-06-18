@@ -10,14 +10,25 @@
 
 # 9回目
 ## 8回目にやったこと
-- [1コマ目](https://www.youtube.com/embed/kkYjFjGVsdY)
+- [1コマ目 C#](https://www.youtube.com/embed/kkYjFjGVsdY)
   - C# 違う変数型への代入方法
   - switch文
   - マウス入力
   - オフセットとピボット
   - コミットとSync
   - ifその2。複合で当たり判定
-- [2コマ目]()
+- [2コマ目 Unity]()
+  - 同じプレハブから作成したオブジェクトの共通の振る舞いを設定するには、プレハブで作業する
+  - OnMouseEnter()を使う
+  - Debug.Logで表示
+  - Destory()でオブジェクトの削除
+  - SetActive()で有効・無効の切り替え
+  - 文字表示
+  - ゲームマネージャー
+  - 空のゲームオブジェクト(Empty)
+  - Inspectorで、Hierarchyのオブジェクトを渡す方法
+    - public変数
+  - 物理エンジンの時間を止める
 
 # 8回目
 ## 7回目にUnityでやったこと
