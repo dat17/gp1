@@ -30,6 +30,14 @@
     - public変数
   - 物理エンジンの時間を止める
 
+## 予定
+- [今日のライブストリーミング]()
+- 乱数
+- for文
+- 配列
+- Unityで同じことをする(プログラムでボールを生成)
+- Paiza
+
 # 8回目
 ## 7回目にUnityでやったこと
 - [2017/6/9 GP1-8 Unityでボールを画面内で跳ね返らせる](https://www.youtube.com/embed/lVaOYDGzNk8?cc_load_policy=1&fs=1&rel=0&autoplay=1)
@@ -55,13 +63,12 @@
 ## 話題
 - [gamesindustry 本格的モーションキャプチャスタジオやVR機器などを無償で提供，リクルートテクノロジーズがオープンイノベーションスペースを開設](http://jp.gamesindustry.biz/article/1706/17061501/)
 
-## 予定
+## 内容
 - [今日のライブストリーミング](https://www.youtube.com/embed/lgiQHRjEmBw)
 - switch文と変数の型変換の表を完成させる
 - マウス操作
 - if文その2　マウスと重なったら停止
 - Unityのhanekaeriを読み込んで、同じ動きをUnityで実装して、違いを比較する
-- Paiza
 
 # 7回目
 ## 内容
