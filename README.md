@@ -31,7 +31,7 @@
   - 物理エンジンの時間を止める
 
 ## 予定
-- [今日のライブストリーミング]()
+- [今日のライブストリーミング](https://www.youtube.com/embed/ZpBuUYDRLMg)
 - 乱数
 - for文
 - 配列
