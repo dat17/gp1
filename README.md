@@ -8,6 +8,20 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 10回目()
+## 9回目の内容
+- [成果物](https://github.com/tanakaedu/move-labels/)
+- []()
+  - https://www.youtube.com/embed/ZpBuUYDRLMg?t=1h15m15s
+
+## 予定
+- 前回やったことの復習
+- Unityの乱数
+- Unityで、沢山のキャラクターをプログラムで生成
+- クリア判定(static)
+- 状態遷移
+
+
 # 9回目(6/23)
 ## 8回目にやったこと
 - [1コマ目 C#](https://www.youtube.com/embed/kkYjFjGVsdY)
