@@ -30,13 +30,12 @@
     - public変数
   - 物理エンジンの時間を止める
 
-## 予定
+## 内容
 - [今日のライブストリーミング](https://www.youtube.com/embed/ZpBuUYDRLMg)
 - 乱数
 - for文
 - 配列
-- Unityで同じことをする(プログラムでボールを生成)
-- Paiza
+- 以上、[成果物](https://github.com/tanakaedu/move-labels/)
 
 # 8回目
 ## 7回目にUnityでやったこと
