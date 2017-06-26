@@ -12,7 +12,6 @@
 ## 9回目の内容
 - [成果物](https://github.com/tanakaedu/move-labels/)
 - [デスクトップ動画](./docs/09-live.md)
-  - https://www.youtube.com/embed/ZpBuUYDRLMg?t=1h15m15s
 
 ## 予定
 - 前回やったことの復習
