@@ -77,7 +77,7 @@ https://youtu.be/ZpBuUYDRLMg?t=1h14m44s
 - 配列のラベルをマウスで消す https://youtu.be/ZpBuUYDRLMg?t=3h5m3s
 - 不要になったラベルを消す https://youtu.be/ZpBuUYDRLMg?t=3h6m29s
 
-以上。成果物は 
+以上。成果物は https://github.com/tanakaedu/move-labels/releases/tag/day0621
 
  
 
