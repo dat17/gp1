@@ -14,6 +14,7 @@
 - [デスクトップ動画](./docs/09-live.md)
 
 ## 予定
+- [今日のデスクトップ動画](https://www.youtube.com/watch?v=XTjNKwH1hvs)
 - 前回やったことの復習
 - Unityの乱数
 - Unityで、沢山のキャラクターをプログラムで生成
