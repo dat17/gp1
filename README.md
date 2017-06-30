@@ -8,19 +8,43 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 11回目(7/7)
+## 予定
+- よけとるの作成開始
+- 新しいプロジェクトの作成
+- GitHubに登録
+- AssetStoreで、キャラクターと背景をインポート
+  - プレイヤー
+  - アイテム
+  - 敵
+  - 背景
+- シーン切り替えを作成
+- キャラクタープレハブの作成
+
+## メモ
+- プレイヤーのアセット
+  - https://www.assetstore.unity3d.com/jp/#!/content/18880
+- アイテムのアセット
+  - https://www.assetstore.unity3d.com/jp/#!/content/73764
+- 敵のアセット
+  - http://u3d.as/F02
+- 背景のアセット
+  - https://www.assetstore.unity3d.com/jp/#!/content/18880
+
 # 10回目(6/30)
 ## 9回目の内容
 - [成果物](https://github.com/tanakaedu/move-labels/)
 - [デスクトップ動画](./docs/09-live.md)
 
-## 予定
+## 内容
 - [今日のデスクトップ動画](https://www.youtube.com/watch?v=XTjNKwH1hvs)
 - 前回やったことの復習
 - Unityの乱数
-- Unityで、沢山のキャラクターをプログラムで生成
-- クリア判定(static)
-- 状態遷移
-
+- ボールの数を数える(static)
+- マウス移動
+- ベクトルについて
+- 移動速度に上限を設定
+- キャラクターを見分ける(Tag)
 
 # 9回目(6/23)
 ## 8回目にやったこと
