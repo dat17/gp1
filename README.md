@@ -9,6 +9,8 @@
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 11回目(7/7)
+- [前回(10回目)の講義の動画目次](./docs/10-live.md)
+
 ## 予定
 - よけとるの作成開始
 - 新しいプロジェクトの作成
@@ -34,7 +36,7 @@
 # 10回目(6/30)
 ## 9回目の内容
 - [成果物](https://github.com/tanakaedu/move-labels/)
-- [デスクトップ動画](./docs/09-live.md)
+- [前回(9回目)の講義の動画目次](./docs/09-live.md)
 
 ## 内容
 - [今日のデスクトップ動画](https://www.youtube.com/watch?v=XTjNKwH1hvs)
