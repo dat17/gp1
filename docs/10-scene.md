@@ -59,15 +59,34 @@ Scene名の後ろに`, LoadSceneMode.Additive`をつけると、追加読み込�
 
 ## Gameシーン
 - Titleと同様に、GameManagerオブジェクトとスクリプトを作成
-- Oキーが押されたら、GameOverを追加で読み込む
-- Cキーが押されたら、Clearを追加で読み込む
+- 次のシーン切り替えの要望変数を追加して、空文字にしておく
+- Oキーが押されたら、次の要素をGameOverに設定
+- Cキーが押されたら、次の要素をClearに設定
+- 次のシーンをチェックして、GameOverやClearへ移行
 
 ## GameOverとClearシーン
 - タイトルと同様に、それぞれGameOverManagerとClearManagerを作成
 - キーが押されたら、Titleシーンを読み込む
+- 不要なカメラとライトを削除
 
 ## 追加読み込みの補足
 - 追加読み込みをした場合、Gameの処理が残ってしまっているので、ゲームの操作ができてしまう
 - 切り替え時に、GameManagerを無効にする
 
 # スコアの実装
+## Titleに作成
+- Titleにスコアテキストを追加して配置
+- プレハブにする
+- TitleManagerにGameParams.csを作成
+- スコアをstaticで定義
+- スコアの設定や加算関数を作成
+- スコアを表示
+- スコアのテキストを、TitleManagerに設定
+
+## Gameに追加
+- Gameに、プレハブ化したテキストを配置
+- GameManagerに、作成済みのGameParamsスクリプトを割り当て
+- テキストを設定
+- Aキーを押すと、スコアを加算
+- ゲーム開始時にスコアを0にする
+
