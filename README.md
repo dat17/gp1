@@ -8,15 +8,9 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
-# 11回目(7/7)
-- [前回(10回目)の講義の動画目次](./docs/10-live.md)
-
-## 予定：よけとる開発
-- [今回のデスクトップ動画のライブ配信](https://www.youtube.com/watch?v=fx5Tohe7FyI)
-- 新しいUnityプロジェクトを作成
-- GitHubに登録
-- [状態遷移についてスライド](docs/unity-scene-1706.pptx)
-- [状態遷移を作る](docs/10-scene.md)
+# 12回目(7/14)
+## 予定：よけとる開発(2)
+- スコアの実装
 - キャラクタープレハブの作成
 - AssetStoreで、キャラクターと背景をインポート
   - プレイヤー
@@ -36,6 +30,17 @@
   - http://u3d.as/F02
 - 背景のアセット
   - https://www.assetstore.unity3d.com/jp/#!/content/18880
+
+# 11回目(7/7)
+- [前回(10回目)の講義の動画目次](./docs/10-live.md)
+
+## 内容：よけとる開発(1)
+- [今回のデスクトップ動画のライブ配信](https://www.youtube.com/watch?v=fx5Tohe7FyI)
+- 新しいUnityプロジェクトを作成
+- GitHubに登録
+- [状態遷移についてスライド](docs/unity-scene-1706.pptx)
+- [状態遷移を作る](docs/10-scene.md)
+- プレイヤー用のアセットを読み込む
 
 # 10回目(6/30)
 ## 9回目の内容
