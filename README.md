@@ -12,7 +12,7 @@
 - [前回(10回目)の講義の動画目次](./docs/10-live.md)
 
 ## 予定：よけとる開発
-- [今回のデスクトップ動画のライブ配信]()
+- [今回のデスクトップ動画のライブ配信](https://www.youtube.com/watch?v=fx5Tohe7FyI)
 - 新しいUnityプロジェクトを作成
 - GitHubに登録
 - [状態遷移についてスライド](docs/unity-scene-1706.pptx)
