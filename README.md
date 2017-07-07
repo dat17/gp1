@@ -9,6 +9,8 @@
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 12回目(7/14)
+- [前回(11回目)の講義の動画目次](./docs/11-live.md)
+
 ## 予定：よけとる開発(2)
 - スコアの実装
 - キャラクタープレハブの作成
