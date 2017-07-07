@@ -60,9 +60,47 @@
 
 ---
 
+## シーンを切り替える
+### タイトルシーン
+- https://youtu.be/fx5Tohe7FyI?t=1h38m48s
+- シーンをコントロールする`TitleManager`オブジェクトとスクリプトを作る https://youtu.be/fx5Tohe7FyI?t=1h42m8s
+- スクリプトを作成 https://youtu.be/fx5Tohe7FyI?t=1h51m22s
+- キー操作について確認 https://youtu.be/fx5Tohe7FyI?t=1h51m40s
+- `Fire1`キーを押したかを判定 https://youtu.be/fx5Tohe7FyI?t=1h53m31s
+- シーンの読み替えのスクリプト https://youtu.be/fx5Tohe7FyI?t=1h55m16s
+  - `using`を追加
+  - `SceneManager.LoadSceneAsync()`を追加
+- このままだとエラーになる https://youtu.be/fx5Tohe7FyI?t=1h58m41s
+- シーンをビルドターゲットに設定する https://youtu.be/fx5Tohe7FyI?t=1h59m23s
+- 動作確認 https://youtu.be/fx5Tohe7FyI?t=2h6m14s
+
+### ゲームシーン
+- https://youtu.be/fx5Tohe7FyI?t=2h7m24s
+- 次のシーンを入れる変数を定義 https://youtu.be/fx5Tohe7FyI?t=2h10m40s
+- キーを押した時に、次のシーンを設定 https://youtu.be/fx5Tohe7FyI?t=2h12m21s
+  - シーンの切り替え処理 https://youtu.be/fx5Tohe7FyI?t=2h16m30s
+- 動作確認 https://youtu.be/fx5Tohe7FyI?t=2h19m45s
+  - スコアが消えてしまう
+- ゲームオーバーとクリアは追加読み込み https://youtu.be/fx5Tohe7FyI?t=2h20m47s
+- 動作確認 https://youtu.be/fx5Tohe7FyI?t=2h22m12s
+  - クリアとゲームオーバーが同時に発生
+- 切り替えたら、ゲームの管理を無効にする https://youtu.be/fx5Tohe7FyI?t=2h23m10s
+- 動作確認 https://youtu.be/fx5Tohe7FyI?t=2h25m47s
+
+### 残りのシーンにタイトルへの移動
+- https://youtu.be/fx5Tohe7FyI?t=2h25m47s
+- コミット https://youtu.be/fx5Tohe7FyI?t=2h53m2s
+- ゲームオーバーとクリア時に警告が大量に表示される　https://youtu.be/fx5Tohe7FyI?t=2h54m
+　　- カメラや不要な光を無効にする https://youtu.be/fx5Tohe7FyI?t=2h55m33s
+- 動作確認 https://youtu.be/fx5Tohe7FyI?t=2h56m45s
+
+## アセットの読み込み
+- 探してきたアセットをよみこむ https://youtu.be/fx5Tohe7FyI?t=3h34s
 
 
+# まとめ
+- Unityでシーンを切り替えるスクリプトを作成した
+- 画面サイズが変更されても、レイアウトが崩れにくいテキストの設定をした
+- アセットの読み込み
 
-
-
-  
+次回、スコアの実装、アセットの読み込み、ゲーム本体の実装。
