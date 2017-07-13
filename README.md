@@ -19,6 +19,25 @@
   - アイテム
   - 敵
   - 背景
+- BGMと効果音の再生
+  - 鳴らすタイミング
+    - タイトル画面でスタートした時の効果音
+    - ゲーム中のBGM。ループ再生する
+    - アイテムを取ったときの効果音
+    - 敵にぶつかった時の効果音
+    - ゲームオーバージングル
+    - クリア曲
+    - タイトルは無音
+  - 手順
+    - リソースを探す
+    - 著作者名とURLをGitHubのREADME.mdに書く
+    - 再生方法をWebで検索して、実装する
+
+## フリー素材音楽サイト
+- [魔法魂](http://maoudamashii.jokersounds.com/)
+- [効果音ラボ](http://soundeffect-lab.info/)
+- [甘茶の音楽工房](http://amachamusic.chagasi.com/)
+- [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
 ## 参考プロジェクト
 - [Unityの簡易シーン切り替え例2017年度版](https://github.com/tanakaedu/SimpleScene17)
