@@ -8,20 +8,18 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
-# 12回目(7/14)
-- [前回(11回目)の講義の動画目次](./docs/11-live.md)
+# 13回目(7/21)
+- [前回(12回目)の講義の動画目次](./docs/12-live.md)
 
-## 話題
-- [Unity3D Japan 【Unite 2017 Tokyo】Unityで楽しむノンフォトリアルな絵づくり講座：トゥーンシェーダー・マニアクス](https://www.youtube.com/watch?v=6aNB9LhSx7g)
-- [【第13回】東ゲ部もくもく会](https://togebu.doorkeeper.jp/events/62478)
-  - 2017-07-16（日）10:30 - 18:00
-  - 1,000円 会場払い
-  - 申込締切 7月16日 17:00 
-- ゲーム業界の声
+## 前回の修正
+- MoveBall.cs の `Start`の処理は、`Awake`にした方がよい
+  - ゲームオブジェクトのインスタンシエイトを実行してから、`Start`が動くまでに時間差があり、その間に当たり判定が動いてしまうと、不測の事態になる
+  - そこで、インスタンシエイト直後に呼び出される`Awake`に座標の設定を変更することで、このような不具合を防ぐ
 
-## 予定：よけとる開発(2)
-- [今回のデスクトップ動画のライブ配信](https://www.youtube.com/watch?v=LahKaump9pQ)
-- スコアの実装
+## 予定：よけとる開発(3)
+- [今回のデスクトップ動画のライブ配信]()
+- 前回の修正
+- ライトが暗くなるのを修正
 - キャラクタープレハブの作成
 - AssetStoreで、キャラクターと背景をインポート
   - プレイヤー
@@ -60,6 +58,23 @@
   - http://u3d.as/F02
 - 背景のアセット
   - https://www.assetstore.unity3d.com/jp/#!/content/18880
+
+
+# 12回目(7/14)
+- [前回(11回目)の講義の動画目次](./docs/11-live.md)
+
+## 話題
+- [Unity3D Japan 【Unite 2017 Tokyo】Unityで楽しむノンフォトリアルな絵づくり講座：トゥーンシェーダー・マニアクス](https://www.youtube.com/watch?v=6aNB9LhSx7g)
+- [【第13回】東ゲ部もくもく会](https://togebu.doorkeeper.jp/events/62478)
+  - 2017-07-16（日）10:30 - 18:00
+  - 1,000円 会場払い
+  - 申込締切 7月16日 17:00 
+- ゲーム業界の声
+
+## 内容：よけとる開発(2)
+- [今回のデスクトップ動画のライブ配信](https://www.youtube.com/watch?v=LahKaump9pQ)
+- スコアの実装
+- hanekaeri から移植
 
 # 11回目(7/7)
 - [前回(10回目)の講義の動画目次](./docs/10-live.md)
