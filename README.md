@@ -58,7 +58,7 @@
   - https://www.assetstore.unity3d.com/jp/#!/content/18880
 
 ## 夏休みの課題：ミニゲームの開発
-Unity、Phaserのいずれかで、ミニゲームを開発する。
+Unity、Phaser、その他の環境でも可。<b>ミニ</b>ゲームを開発する。
 
 - 完全なオリジナルでなくてもよい
   - 講義で作成したyoketoruを改造したもの
