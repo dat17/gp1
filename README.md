@@ -57,6 +57,40 @@
 - 背景のアセット
   - https://www.assetstore.unity3d.com/jp/#!/content/18880
 
+## 夏休みの課題：ミニゲームの開発
+Unity、Phaserのいずれかで、ミニゲームを開発する。
+
+- 完全なオリジナルでなくてもよい
+  - 講義で作成したyoketoruを改造したもの
+  - Webで見つけたチュートリアルを改造したもの
+  - AssetStoreのプロジェクトを改造したもの
+  - 書籍のサンプルを改造したもの
+- yoketoruの場合、以下のような要素を追加してみよう
+  - 障害物を作る
+  - 弾を撃つ
+  - 敵の動きのバリエーションを増やす
+  - 演出(パーティクル)
+  - 画面を綺麗にする
+- チュートリアルの例
+  - ひよこのたまご http://hiyotama.hatenablog.com/
+  - Unityの公式 https://unity3d.com/jp/learn/tutorials
+  - AssetStore https://www.assetstore.unity3d.com/jp/#!/search/page=1/sortby=popularity/query=price:0&category:98
+  - 本棚の書籍
+
+### 夏休み明け
+夏休み明けに、以下の要領で発表会を行う。
+
+- 一人5分～10分程度で発表
+- 作品をネットドライブにコピーしておいて、教卓PCで実行して、解説
+- 発表内容は以下の通り
+  - 作品名
+  - 作品の概要
+  - 操作方法
+  - ゲームのルール
+  - どこを自分で開発したか
+  - 利用したアセットやチュートリアルを、全て紹介
+- 各内容については、 https://unityroom.com/ の作品を何本か確認して、どのように書けば分かりやすいかを研究して、工夫すること
+
 
 ## 以下、水曜日に実施済み
 - [暗くなるのを解決する](./docs/13-shiage.md)
