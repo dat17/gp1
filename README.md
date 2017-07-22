@@ -9,6 +9,7 @@
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 13回目(7/21)
+- [今回(13回目)の講義の動画目次](./docs/13-live.md)
 - [前回(12回目)の講義の動画目次](./docs/12-live.md)
 - 前回の金曜日欠席の人
   - https://github.com/dat17/yoketoru を開く
