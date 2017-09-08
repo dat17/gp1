@@ -73,7 +73,8 @@ Unityの最新版をインストールする。
 - 以下にチェックが入っているのを確認。不要なチェックがあれば外す
   - Unity2017.1.1 f1
   - Standard Assets
-  - Android Build Support
+  - Visual Studio 2017 Community・・・
+  - Android Build Support
   - WebGL Build Support
 - 以上、チェックを設定したら、[Next]
 - そのまま、[Next]
@@ -87,7 +88,23 @@ Unityの最新版をインストールする。
 - C# Scriptを作成
 - 作成したスクリプトファイルをダブルクリックして、Visual Studioが起動するのを確認
 
-以上できたら、起動したプログラムを全て閉じて、ログアウトして、GP12でログインしなおすが、電源を切る。
+以上できたら、起動したプログラムを全て閉じて、ログアウトして、GP12でログインしなおす。
+
+以下、設定。
+
+- Unityを起動
+- 先ほど作成した New Unity Project をLOAD
+- [Edit] > [Preferences...]を選択
+- 左から[External Tools]を選択
+- [External Script Editor]を[Browse...]に設定
+- 以下のパスを設定
+  - C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\devenv.exe
+- JDK 欄の[Browse]をクリック
+- パスが自動的に設定されるので、[フォルダーを選択]をクリック
+- [Layout]を[2 by 3]に
+- [Project]ビューの右上のハンバーガーメニュー(三)をクリックして、[One Column]を選択
+
+以上で完了。
 
 # 13回目(7/21)
 - [今回(13回目)の講義の動画目次](./docs/13-live.md)
