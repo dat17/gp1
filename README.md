@@ -8,12 +8,7 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
-# 14回目(9/8)
-## モデル発表
-- [蝉ファイナル](https://gitpitch.com/dat17/semi-final-slide)
-  - [スライドの元データ](https://github.com/dat17/semi-final-slide/blob/master/PITCHME.md)
-  - [蝉ファイナルを遊ぶ](https://unityroom.com/games/semi-final/webgl)
-
+# 15回目(9/15)
 ## 発表会
 - 一人5分～10分程度
 - 作品をネットドライブにコピーしておいて、教卓PCで実行して、解説
@@ -53,6 +48,21 @@
 
 - B列とC列の点数は、3～1をバランスよく配分すること
 - 点数とコメントは、誰が書いたかを伏せて発表者に伝える。コメントは、参考になりそうなアドバイスを書いて欲しい。自分のことは棚にあげることが大事
+
+## その後の予定
+- Paizaスキルチェック
+- Unity Collabo を使ったチーム開発
+
+# 14回目(9/8)
+## モデル発表
+- [蝉ファイナル](https://gitpitch.com/dat17/semi-final-slide)
+  - [スライドの元データ](https://github.com/dat17/semi-final-slide/blob/master/PITCHME.md)
+  - [蝉ファイナルを遊ぶ](https://unityroom.com/games/semi-final/webgl)
+
+## 内容
+- Unityのアップデート
+- Googleワークシートで評価シートを作成して、講師に共有
+- 発表準備
 
 ## 発表しながらUnityをアップデート
 
