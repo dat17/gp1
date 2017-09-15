@@ -38,6 +38,10 @@
 - WebGLビルド(できなければUnity Collaboで)
 - Unity Collabo を使ったチーム開発
 - Paizaスキルチェック
+- GitHubの整備
+  - Tyrano Scriptの背景を変更するまで
+  - Visual C#で、ラベルを沢山表示して、画面を跳ね返らせて、速度を乱数で設定
+  - Unityのyoketoru
 
 # 14回目(9/8)
 ## モデル発表
