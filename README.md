@@ -34,6 +34,9 @@
 - B列とC列の点数は、3～1をバランスよく配分すること
 - 点数とコメントは、誰が書いたかを伏せて発表者に伝える。コメントは、参考になりそうなアドバイスを書いて欲しい。自分のことは棚にあげることが大事
 
+## リンク
+- [naichi lab. WebGLビルド方法② CloudBuildの利用](http://blog.naichilab.com/entry/cloud-build-webgl)
+
 ## その後の予定
 - WebGLビルド(できなければUnity Collaboで)
 - Unity Collabo を使ったチーム開発
