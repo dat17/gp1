@@ -13,12 +13,13 @@
 - [デスクトップ動画]()
 
 ## 予定
-- Audioの制御
-  - Audioの種類
+- Audio
+  - Audio Clipの種類 https://docs.unity3d.com/ja/current/Manual/class-AudioClip.html
   - BGMの再生
   - SEの再生
   - 3Dサウンド
-- Physicsについて https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
+  - できたらAudio Mixer https://docs.unity3d.com/ja/current/Manual/AudioMixer.html
+- Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
 - UI https://docs.unity3d.com/ja/current/Manual/UICanvas.html
   - キャンバスのモードについて
   - Rect Transformツール
