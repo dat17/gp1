@@ -8,6 +8,22 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 後期2回目(10/13)
+## 動画
+- [デスクトップ動画]()
+
+## 予定
+- Audioの制御
+  - Audioの種類
+  - BGMの再生
+  - SEの再生
+  - 3Dサウンド
+- Physicsについて https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
+- UI https://docs.unity3d.com/ja/current/Manual/UICanvas.html
+  - キャンバスのモードについて
+  - Rect Transformツール
+- DATフェスタ作業
+
 # 後期1回目(10/6)
 - Unity Analyticsの設定とイベントの設定(Clearとゲームオーバー)
   - 反映は1日後なので、とりあえず仕込んだ状態
