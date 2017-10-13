@@ -8,11 +8,23 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 後期3回目(10/20)
+## 動画
+- [デスクトップ動画]()
+
+## 予定
+- [講義メモ]()
+- Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
+- UI https://docs.unity3d.com/ja/current/Manual/UICanvas.html
+  - キャンバスのモードについて
+  - Rect Transformツール
+- DATフェスタ作業
+
 # 後期2回目(10/13)
 ## 動画
 - [デスクトップ動画](https://www.youtube.com/watch?v=JeREWqLGkIQ)
 
-## 予定
+## 内容
 - [講義メモ](https://github.com/dat17/gp1/wiki/day1013)
 - Audio
   - Audio Clipの種類 https://docs.unity3d.com/ja/current/Manual/class-AudioClip.html
@@ -20,10 +32,6 @@
   - SEの再生
   - 3Dサウンド
   - できたらAudio Mixer https://docs.unity3d.com/ja/current/Manual/AudioMixer.html
-- Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
-- UI https://docs.unity3d.com/ja/current/Manual/UICanvas.html
-  - キャンバスのモードについて
-  - Rect Transformツール
 - DATフェスタ作業
 
 # 後期1回目(10/6)
