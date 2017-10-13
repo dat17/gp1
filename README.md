@@ -10,7 +10,7 @@
 
 # 後期2回目(10/13)
 ## 動画
-- [デスクトップ動画]()
+- [デスクトップ動画](https://www.youtube.com/watch?v=JeREWqLGkIQ)
 
 ## 予定
 - Audio
