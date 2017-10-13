@@ -13,6 +13,7 @@
 - [デスクトップ動画](https://www.youtube.com/watch?v=JeREWqLGkIQ)
 
 ## 予定
+- [講義メモ](https://github.com/dat17/gp1/wiki/day1013)
 - Audio
   - Audio Clipの種類 https://docs.unity3d.com/ja/current/Manual/class-AudioClip.html
   - BGMの再生
