@@ -14,6 +14,7 @@
 
 ## 予定
 - [講義メモ]()
+- TODOリストの確認。未作成の場合は、その場で話し合いながら作成
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
 - UI https://docs.unity3d.com/ja/current/Manual/UICanvas.html
   - キャンバスのモードについて
