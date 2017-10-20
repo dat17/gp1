@@ -23,13 +23,13 @@
 - バグを見つけたら
   - 以下を参考にラベルをつけて、Issuesに登録する
     - https://qiita.com/maeda_t/items/4344bdeabcc6a18a34cc
+- UI https://docs.unity3d.com/ja/current/Manual/UICanvas.html
+  - キャンバスのモードについて
+  - Rect Transformツール
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - Colliderの種類と衝突の組み合わせ
   - Character Controller
   - 高速移動時の対応
-- UI https://docs.unity3d.com/ja/current/Manual/UICanvas.html
-  - キャンバスのモードについて
-  - Rect Transformツール
 - DATフェスタ作業
 
 # 後期2回目(10/13)
