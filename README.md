@@ -20,6 +20,9 @@
     - 「緊急」と「やった方がいい」は期日なしで使い回す
     - 「やるべきこと（必須）」は期日付きにする。期日だけでも良い
   - 作業担当者をAssignする
+- バグを見つけたら
+  - 以下を参考にラベルをつけて、Issuesに登録する
+    - https://qiita.com/maeda_t/items/4344bdeabcc6a18a34cc
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - Colliderの種類と衝突の組み合わせ
   - Character Controller
