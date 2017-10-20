@@ -15,6 +15,11 @@
 ## 予定
 - [講義メモ]()
 - TODOリストの確認。未作成の場合は、その場で話し合いながら作成
+  - タイトルは作業内容を書く
+  - 期限はマイルストンで設定
+    - 「緊急」と「やった方がいい」は期日なしで使い回す
+    - 「やるべきこと（必須）」は期日付きにする。期日だけでも良い
+  - 作業担当者をAssignする
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - Colliderの種類と衝突の組み合わせ
   - Character Controller
