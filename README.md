@@ -8,11 +8,22 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 後期4回目(10/27)
+## 動画
+- [デスクトップ動画]()
+
+## 予定
+- Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
+  - Colliderの種類と衝突の組み合わせ
+  - Character Controller
+  - 高速移動時の対応
+- DATフェスタ進捗確認、作業
+
 # 後期3回目(10/20)
 ## 動画
 - [デスクトップ動画](https://www.youtube.com/watch?v=oBts5d-6pkY)
 
-## 予定
+## 内容
 - [講義メモ](https://github.com/dat17/gp1/wiki/UnityUI)
 - TODOリストの確認。未作成の場合は、その場で話し合いながら作成
   - タイトルは作業内容を書く
@@ -26,10 +37,6 @@
 - UI https://docs.unity3d.com/ja/current/Manual/UICanvas.html
   - キャンバスのモードについて
   - Rect Transformツール
-- Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
-  - Colliderの種類と衝突の組み合わせ
-  - Character Controller
-  - 高速移動時の対応
 - DATフェスタ作業
 
 # 後期2回目(10/13)
