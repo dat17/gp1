@@ -1,0 +1,31 @@
+氏名：
+
+
+以下の問いに答えよ。
+
+問1) 「discrete」は日本語でどういう意味か
+
+答え：
+
+
+問2) 「continuous」は日本語でどういう意味か
+
+答え：
+
+
+問3) PhysicsでDiscreteに設定していると、どのような不具合が発生するか
+
+答え：
+
+
+問4) PhysicsでContinuousに設定していると、どのような不具合が発生するか
+
+答え：
+
+
+問5) PhysicsのContinuous Dynamicのデメリットは何か
+
+答え：
+
+
+[EOF]
