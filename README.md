@@ -16,7 +16,7 @@
 - [RFC. MUST, MUST NOTなど、要求レベルを表すキーワード](http://www.ietf.org/rfc/rfc2119.txt)
 - [Unity上で形状を作成できるアセット ProBuilder Basic](https://www.assetstore.unity3d.com/jp/#!/content/11919)
   - [ProBuilder Documentation](http://procore3d.github.io/probuilder2/)
-  - [ゴマちゃんフロンティア 【Unity】「ProBuilder Basic」を使ったシンプルなステージ作成](http://gomafrontier.com/unity/625)
+  - [ゴマちゃんフロンティア 【Unity】「ProBuilder Basic」を使ったシンプルなステージ作成](http://gomafrontier.com/unity/625)
   - [テラシュールブログ 【Unity】ProBuilder Basicでコーネルボックスを作ってみる](http://tsubakit1.hateblo.jp/entry/2017/10/25/221216)
   - [コーネルボックス(cornell box)とは](https://www.graphics.cornell.edu/online/box/)
     - コーネル大学が提唱した物理ベースレンダリング(physically based rendering)を理解するための箱を配置したモデルのこと
