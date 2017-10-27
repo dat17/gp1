@@ -10,7 +10,7 @@
 
 # 後期4回目(10/27)
 ## 動画
-- [デスクトップ動画]()
+- [デスクトップ動画](https://www.youtube.com/watch?v=fVE5Od1Vf5I)
 
 ## 予定
 - [RFC. MUST, MUST NOTなど、要求レベルを表すキーワード](http://www.ietf.org/rfc/rfc2119.txt)
