@@ -8,18 +8,11 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
-# 後期4回目(10/27)
+# 後期5回目(11/3)
 ## 動画
-- [デスクトップ動画](https://www.youtube.com/watch?v=fVE5Od1Vf5I)
+- [デスクトップ動画]()
 
 ## 予定
-- [RFC. MUST, MUST NOTなど、要求レベルを表すキーワード](http://www.ietf.org/rfc/rfc2119.txt)
-- [Unity上で形状を作成できるアセット ProBuilder Basic](https://www.assetstore.unity3d.com/jp/#!/content/11919)
-  - [ProBuilder Documentation](http://procore3d.github.io/probuilder2/)
-  - [ゴマちゃんフロンティア 【Unity】「ProBuilder Basic」を使ったシンプルなステージ作成](http://gomafrontier.com/unity/625)
-  - [テラシュールブログ 【Unity】ProBuilder Basicでコーネルボックスを作ってみる](http://tsubakit1.hateblo.jp/entry/2017/10/25/221216)
-  - [コーネルボックス(cornell box)とは](https://www.graphics.cornell.edu/online/box/)
-    - コーネル大学が提唱した物理ベースレンダリング(physically based rendering)を理解するための箱を配置したモデルのこと
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - Colliderの種類と衝突の組み合わせ
   - Character Controller
@@ -28,6 +21,19 @@
   - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
   - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
   - 提出先のフォルダー内に「問題2.txt」というテキストファイルがあるので、Notepadなどで開く。氏名を入力した後、問題に解答して、答え終わったら上書き保存してNotepadを閉じよ。
+
+# 後期4回目(10/27)
+## 動画
+- [デスクトップ動画](https://www.youtube.com/watch?v=fVE5Od1Vf5I)
+
+## 内容
+- [RFC. MUST, MUST NOTなど、要求レベルを表すキーワード](http://www.ietf.org/rfc/rfc2119.txt)
+- [Unity上で形状を作成できるアセット ProBuilder Basic](https://www.assetstore.unity3d.com/jp/#!/content/11919)
+  - [ProBuilder Documentation](http://procore3d.github.io/probuilder2/)
+  - [ゴマちゃんフロンティア 【Unity】「ProBuilder Basic」を使ったシンプルなステージ作成](http://gomafrontier.com/unity/625)
+  - [テラシュールブログ 【Unity】ProBuilder Basicでコーネルボックスを作ってみる](http://tsubakit1.hateblo.jp/entry/2017/10/25/221216)
+  - [コーネルボックス(cornell box)とは](https://www.graphics.cornell.edu/online/box/)
+    - コーネル大学が提唱した物理ベースレンダリング(physically based rendering)を理解するための箱を配置したモデルのこと
 - DATフェスタ進捗確認、作業
 
 # 後期3回目(10/20)
