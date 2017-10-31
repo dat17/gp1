@@ -8,7 +8,7 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
-# 後期5回目(11/3)
+# 後期5回目(11/17)
 ## 動画
 - [デスクトップ動画]()
 
