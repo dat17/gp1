@@ -9,6 +9,9 @@
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 後期5回目(11/17)
+## 動画
+- [デスクトップ動画](https://www.youtube.com/watch?v=x0TiH28hfPU)
+
 ## 予定
 - プロジェクトにUnityコラボとCloud Buildを設定
 - WebGLでビルド
