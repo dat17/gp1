@@ -9,6 +9,16 @@
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 後期5回目(11/17)
+## 予定
+- プロジェクトにUnityコラボとCloud Buildを設定
+- WebGLでビルド
+- 各自作業
+- ビルドが完了したら、UnityRoomに作品を仮投稿
+- 不具合があれば直す
+- 各自、作業
+
+## 以下、次回以降
+
 ## 動画
 - [デスクトップ動画]()
 
