@@ -15,6 +15,10 @@
 - 各自作業
 - ビルドが完了したら、UnityRoomに作品を仮投稿
 - 不具合があれば直す
+- UnityRoomのスクリーンショットについて(仮のものを作っておく)
+  - http://am1tanaka.hatenablog.com/entry/2017/07/03/232748
+  - [ScreenPresso. スクリーンショットや画面動画の撮影ツール](https://www.screenpresso.com/ja/)
+    - Download > Download Screenpressボタン > メールアドレスを入力してDownload > 実行 > ユーザー個人でインストールしたらできたと思った
 - 各自、作業
 
 ## 以下、次回以降
