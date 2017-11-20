@@ -8,26 +8,7 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
-# 後期5回目(11/17)
-## 動画
-- [デスクトップ動画](https://www.youtube.com/watch?v=x0TiH28hfPU)
-
-## 予定
-- プロジェクトにUnityコラボとCloud Buildを設定
-- WebGLでビルド
-- ビルドが完了したら、UnityRoomに作品を仮投稿
-- 不具合があれば直す
-- UnityRoomのスクリーンショットについて(仮のものを作っておく)
-  - http://am1tanaka.hatenablog.com/entry/2017/07/03/232748
-  - [ScreenPresso. スクリーンショットや画面動画の撮影ツール](https://www.screenpresso.com/ja/)
-    - Download > Download Screenpressボタン > メールアドレスを入力してDownload > 実行 > ユーザー個人でインストールしたらできたと思った
-- 各自、作業
-
-## 以下、次回以降
-
-## 動画
-- [デスクトップ動画]()
-
+# 後期6回目(11/24)
 ## 予定
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - Colliderの種類と衝突の組み合わせ
@@ -37,6 +18,21 @@
   - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
   - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
   - 提出先のフォルダー内に「問題2.txt」というテキストファイルがあるので、Notepadなどで開く。氏名を入力した後、問題に解答して、答え終わったら上書き保存してNotepadを閉じよ。
+
+# 後期5回目(11/17)
+## 動画
+- [デスクトップ動画](https://www.youtube.com/watch?v=x0TiH28hfPU)
+
+## 内容
+- プロジェクトにUnityコラボとCloud Buildを設定
+- WebGLでビルド
+- ビルドが完了したら、UnityRoomに作品を仮投稿
+- 不具合があれば直す
+- UnityRoomのスクリーンショットについて(仮のものを作っておく)
+  - http://am1tanaka.hatenablog.com/entry/2017/07/03/232748
+  - [ScreenPresso. スクリーンショットや画面動画の撮影ツール](https://www.screenpresso.com/ja/)
+    - Download > Download Screenpressボタン > メールアドレスを入力してDownload > 実行 > ユーザー個人でインストールしたらできたと思った
+- 各自、作業
 
 # 後期4回目(10/27)
 ## 動画
