@@ -9,6 +9,9 @@
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 後期6回目(11/24)
+## 話題
+- UniRxとZenject https://github.com/dat17/gp1/wiki/UniRx%E3%81%A8Zenject%E3%83%A1%E3%83%A2
+
 ## 予定
 - GitHub LFSの利用
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
