@@ -14,6 +14,7 @@
 
 ## 予定
 - GitHub LFSの利用
+  - http://am1tanaka.hatenablog.com/entry/2017/11/22/190219
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - Colliderの種類と衝突の組み合わせ
   - Character Controller
