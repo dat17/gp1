@@ -1,31 +1,52 @@
-�����F
+氏名：
+
+以下の問いに答えよ。
+
+Q:「Is Kinematic」はどのような時に設定するか
+
+答え：
 
 
-�ȉ��̖₢�ɓ�����B
+Q:「Sleep」は、どのような時に発生するか。また、明示的に起こすための関数名を答えよ
 
-��1) �udiscrete�v�͓��{��łǂ������Ӗ���
+答え：
 
-�����F
-
-
-��2) �ucontinuous�v�͓��{��łǂ������Ӗ���
-
-�����F
+関数名：
 
 
-��3) Physics��Discrete�ɐݒ肵�Ă���ƁA�ǂ̂悤�ȕs����������邩
+Q: コライダーコンポーネントは何をするためのものか
 
-�����F
-
-
-��4) Physics��Continuous�ɐݒ肵�Ă���ƁA�ǂ̂悤�ȕs����������邩
-
-�����F
+答え：
 
 
-��5) Physics��Continuous Dynamic�̃f�����b�g�͉���
+Q: コライダーは目に見えないので、どのように設定すれば良いか
 
-�����F
+答え：
+
+
+Q: 単純nあ
+
+Q: 「discrete」は日本語でどういう意味か
+
+答え：
+
+
+Q: 「continuous」は日本語でどういう意味か
+
+答え：
+
+Q: PhysicsでDiscreteに設定していると、どのような不具合が発生するか
+
+答え：
+
+
+Q: PhysicsでContinuousに設定していると、どのような不具合が発生するか
+
+答え：
+
+Q: PhysicsのContinuous Dynamicのデメリットは何か
+
+答え：
 
 
 [EOF]
