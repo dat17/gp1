@@ -16,6 +16,7 @@
 - GitHub LFSの利用
   - http://am1tanaka.hatenablog.com/entry/2017/11/22/190219
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
+  - https://github.com/dat17/gp1/raw/master/RigidbodyRensyu.zip をダウンロードして開く
   - Colliderの種類と衝突の組み合わせ
   - Character Controller
   - 高速移動時の対応
