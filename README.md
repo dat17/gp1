@@ -10,6 +10,7 @@
 
 # 後期6回目(11/24)
 ## 話題
+- [Y_YOSHINARI. Web出身のUnityエンジニアによる大規模ゲームの基盤設計](https://developers.cyberagent.co.jp/blog/archives/4262/)
 - UniRxとZenject https://github.com/dat17/gp1/wiki/UniRx%E3%81%A8Zenject%E3%83%A1%E3%83%A2
 
 ## 予定
