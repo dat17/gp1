@@ -26,7 +26,7 @@
     - 先ほどコピーしたテキストを貼り付ける
     - 右上の[共有]をクリックして、 YRK00337@gmail.com を共有設定する
     - 講義を聞きながら、解答を入力していく
-  - https://github.com/dat17/gp1/raw/master/RigidbodyRensyu.zip をダウンロードして開く
+  - https://github.com/dat17/gp1/raw/master/RigidbodyRensyu.zip をダウンロードして開く
   - RigidbodyやColliderの基本を確認
   - Colliderの種類と衝突の組み合わせ
   - Character Controller
