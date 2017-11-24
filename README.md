@@ -17,8 +17,18 @@
 - GitHub LFSの利用
   - http://am1tanaka.hatenablog.com/entry/2017/11/22/190219
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
-  - https://github.com/dat17/gp1/raw/master/RigidbodyRensyu.zip をダウンロードして開く
-  - Colliderの種類と衝突の組み合わせ
+  - 準備
+    - https://raw.githubusercontent.com/dat17/gp1/master/04/%E5%95%8F%E9%A1%8C2.txt を右クリックして新しいタブで開く
+    - 全て選択してコピーしておく
+    - Googleドライブを開く
+    - 新規作成でドキュメントを作成
+    - ドキュメント名を「1124<氏名>」のように設定(例：1124タナカ)
+    - 先ほどコピーしたテキストを貼り付ける
+    - 右上の[共有]をクリックして、 YRK00337@gmail.com を共有設定する
+    - 講義を聞きながら、解答を入力していく
+  - https://github.com/dat17/gp1/raw/master/RigidbodyRensyu.zip をダウンロードして開く
+  - RigidbodyやColliderの基本を確認
+  - Colliderの種類と衝突の組み合わせ
   - Character Controller
   - 高速移動時の対応
 - 練習問題
