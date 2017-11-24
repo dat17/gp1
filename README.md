@@ -8,12 +8,23 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 後期7回目(12/1)
+## 予定
+- Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
+  - Character Controller
+  - 高速移動時の対応
+- 練習問題
+  - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
+  - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
+  - 提出先のフォルダー内に「問題2.txt」というテキストファイルがあるので、Notepadなどで開く。氏名を入力した後、問題に解答して、答え終わったら上書き保存してNotepadを閉じよ。
+- オブジェクト指向プログラミング
+
 # 後期6回目(11/24)
 ## 話題
 - [Y_YOSHINARI. Web出身のUnityエンジニアによる大規模ゲームの基盤設計](https://developers.cyberagent.co.jp/blog/archives/4262/)
 - UniRxとZenject https://github.com/dat17/gp1/wiki/UniRx%E3%81%A8Zenject%E3%83%A1%E3%83%A2
 
-## 予定
+## 内容
 - GitHub LFSの利用
   - http://am1tanaka.hatenablog.com/entry/2017/11/22/190219
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
@@ -28,13 +39,7 @@
     - 講義を聞きながら、解答を入力していく
   - https://github.com/dat17/gp1/raw/master/RigidbodyRensyu.zip をダウンロードして開く
   - RigidbodyやColliderの基本を確認
-  - Colliderの種類と衝突の組み合わせ
-  - Character Controller
-  - 高速移動時の対応
-- 練習問題
-  - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
-  - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
-  - 提出先のフォルダー内に「問題2.txt」というテキストファイルがあるので、Notepadなどで開く。氏名を入力した後、問題に解答して、答え終わったら上書き保存してNotepadを閉じよ。
+  - Colliderの種類と衝突の組み合わせ
 
 # 後期5回目(11/17)
 ## 動画
