@@ -28,6 +28,8 @@
 
 ## 時間が有れば
 - コルーチン
+- TextMesh Proのマテリアルの要素をAnimationさせる
+  - 「textmesh pro material animator」で検索してみつけた http://digitalnativestudios.com/forum/index.php?topic=308.0 を参考に、変更したいプロパティーを追加することが可能
 
 # 後期6回目(11/24)
 ## 話題
