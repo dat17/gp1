@@ -9,6 +9,11 @@
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 後期7回目(12/1)
+## 話題
+- [12/1～12/4 期間限定でpaizaのポートフォリオ制作講座が無料](https://paiza.jp/works/career/primer)
+- [@toRisouP. Unity開発で使える設計の話+Zenjectの紹介](https://www.slideshare.net/torisoup/unityzenject)
+- [岩永信之. Unityで使える C# 6.0～と .NET 4.6](https://t.co/1YKRtDKJhV)
+
 ## 予定
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - Character Controller
