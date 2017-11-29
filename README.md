@@ -10,11 +10,13 @@
 
 # 後期7回目(12/1)
 ## 話題
-- [12/1～12/4 期間限定でpaizaのポートフォリオ制作講座が無料](https://paiza.jp/works/career/primer)
 - [@toRisouP. Unity開発で使える設計の話+Zenjectの紹介](https://www.slideshare.net/torisoup/unityzenject)
 - [岩永信之. Unityで使える C# 6.0～と .NET 4.6](https://t.co/1YKRtDKJhV)
 
 ## 予定
+- [12/1～12/4 期間限定でpaizaのポートフォリオ制作講座が無料](https://paiza.jp/works/career/primer)
+  - 全て動画に従って学習
+  - GitHubにアカウントページを作成して、作成したポートフォリオのデータをアップロードする
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - Character Controller
   - 高速移動時の対応
