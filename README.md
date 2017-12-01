@@ -16,8 +16,8 @@
 
 ## 予定
 - [12/1～12/4 期間限定でpaizaのポートフォリオ制作講座が無料](https://paiza.jp/works/career/primer)
-  - 全て動画に従って学習
-  - GitHubにアカウントページを作成して、作成したポートフォリオのデータをアップロードする
+  - 全て動画に従って学習
+  - GitHubにアカウントページを作成して、作成したポートフォリオのデータをアップロードする
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - Character Controller
   - 高速移動時の対応
