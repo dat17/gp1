@@ -14,6 +14,9 @@
 - [岩永信之. Unityで使える C# 6.0～と .NET 4.6](https://t.co/1YKRtDKJhV)
 - [@YuukiOgino. Unity認定試験のスクリプト勉強範囲と個人的に感じている合格のメリットについて](https://qiita.com/YuukiOgino/items/2d00c5372f26c0bb35f2)
 
+## 動画
+- ポートフォリオをGitHub Pagesのアカウントページにアップロードする https://www.youtube.com/watch?v=L543qNQg_fE
+
 ## 予定
 - [12/1～12/4 期間限定でpaizaのポートフォリオ制作講座が無料](https://paiza.jp/works/career/primer)
   - 全て動画に従って学習
