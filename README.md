@@ -8,6 +8,27 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 後期8回目(12/8)
+## 正月休み課題
+- 1日程度で完成させることができる小作品を作って、ポートフォリオページで公開して、休み明けにプレゼンテーション
+- 1週間ゲームジャム以降に作成したもの
+- すでに現在開発中のものがあれば、それでよい
+- 休み前に完成させておくと楽なので推奨
+
+## 予定
+- Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
+  - Character Controller
+  - 高速移動時の対応
+- 練習問題
+  - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
+  - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
+  - 指示に従ってGoogleドキュメントに貼り付けて共有せよ
+- オブジェクト指向プログラミング
+
+## 時間があれば
+- TextMesh Proのマテリアルの要素をAnimationさせる
+  - 「textmesh pro material animator」で検索してみつけた http://digitalnativestudios.com/forum/index.php?topic=308.0 を参考に、変更したいプロパティーを追加することが可能
+
 # 後期7回目(12/1)
 ## 話題
 - [@toRisouP. Unity開発で使える設計の話+Zenjectの紹介](https://www.slideshare.net/torisoup/unityzenject)
@@ -17,23 +38,11 @@
 ## 動画
 - ポートフォリオをGitHub Pagesのアカウントページにアップロードする https://www.youtube.com/watch?v=L543qNQg_fE
 
-## 予定
+## 内容
 - [12/1～12/4 期間限定でpaizaのポートフォリオ制作講座が無料](https://paiza.jp/works/career/primer)
   - 全て動画に従って学習
   - GitHubにアカウントページを作成して、作成したポートフォリオのデータをアップロードする
-- Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
-  - Character Controller
-  - 高速移動時の対応
-- 練習問題
-  - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
-  - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
-  - 提出先のフォルダー内に「問題2.txt」というテキストファイルがあるので、Notepadなどで開く。氏名を入力した後、問題に解答して、答え終わったら上書き保存してNotepadを閉じよ。
-- オブジェクト指向プログラミング
-
-## 時間が有れば
 - コルーチン
-- TextMesh Proのマテリアルの要素をAnimationさせる
-  - 「textmesh pro material animator」で検索してみつけた http://digitalnativestudios.com/forum/index.php?topic=308.0 を参考に、変更したいプロパティーを追加することが可能
 
 # 後期6回目(11/24)
 ## 話題
