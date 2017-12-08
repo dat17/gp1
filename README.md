@@ -16,6 +16,10 @@
 - 休み前に完成させておくと楽なので推奨
 
 ## 予定
+- オブジェクト指向プログラミング
+  - p4 非オブジェクト指向プロジェクト https://github.com/tanakaedu/object-practice-2016/archive/no-object.zip
+  - p4 非オブジェクト指向プロジェクトGist https://gist.github.com/tanakaedu/a55477056822950e6ab59f16efc83dbb
+  - p5 不要なコードを削除したもの https://gist.github.com/tanakaedu/f843c5744c770ed466824a62018a8821
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - Character Controller
   - 高速移動時の対応
@@ -23,7 +27,6 @@
   - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
   - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
   - 指示に従ってGoogleドキュメントに貼り付けて共有せよ
-- オブジェクト指向プログラミング
 
 ## 時間があれば
 - TextMesh Proのマテリアルの要素をAnimationさせる
