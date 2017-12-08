@@ -15,6 +15,9 @@
 - すでに現在開発中のものがあれば、それでよい
 - 休み前に完成させておくと楽なので推奨
 
+## デスクトップ動画 2コマ目から
+- https://www.youtube.com/watch?v=NCK8fZRSqB4
+
 ## 予定
 - オブジェクト指向プログラミング
   - p4 非オブジェクト指向プロジェクト https://github.com/tanakaedu/object-practice-2016/archive/no-object.zip
