@@ -8,23 +8,19 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
-# 後期8回目(12/8)
-## 正月休み課題
+# 正月休み課題
 - 1日程度で完成させることができる小作品を作って、ポートフォリオページで公開して、休み明けにプレゼンテーション
 - 1週間ゲームジャム以降に作成したもの
 - すでに現在開発中のものがあれば、それでよい
 - 休み前に完成させておくと楽なので推奨
 
-## デスクトップ動画 2コマ目から
-- https://www.youtube.com/watch?v=NCK8fZRSqB4
-
+# 後期9回目(12/15)
 ## 予定
-- オブジェクト指向プログラミング
-  - p4 非オブジェクト指向プロジェクト https://github.com/tanakaedu/object-practice-2016/archive/no-object.zip
-  - p4 非オブジェクト指向プロジェクトGist https://gist.github.com/tanakaedu/a55477056822950e6ab59f16efc83dbb
-  - p5 不要なコードを削除したもの https://gist.github.com/tanakaedu/f843c5744c770ed466824a62018a8821
+- オブジェクト指向プログラミング：staticの次から [前回の完成プロジェクト](https://am1.jp/dat/object-practice-2016-01.zip)
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - Character Controller
+    - FPS動作の着地処理から
+    - TPSの動き
   - 高速移動時の対応
 - 練習問題
   - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
@@ -34,6 +30,18 @@
 ## 時間があれば
 - TextMesh Proのマテリアルの要素をAnimationさせる
   - 「textmesh pro material animator」で検索してみつけた http://digitalnativestudios.com/forum/index.php?topic=308.0 を参考に、変更したいプロパティーを追加することが可能
+
+# 後期8回目(12/8)
+## デスクトップ動画 2コマ目から
+- https://www.youtube.com/watch?v=NCK8fZRSqB4
+
+## 内容
+- オブジェクト指向プログラミング
+  - p4 非オブジェクト指向プロジェクト https://github.com/tanakaedu/object-practice-2016/archive/no-object.zip
+  - p4 非オブジェクト指向プロジェクトGist https://gist.github.com/tanakaedu/a55477056822950e6ab59f16efc83dbb
+  - p5 不要なコードを削除したもの https://gist.github.com/tanakaedu/f843c5744c770ed466824a62018a8821
+- Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
+  - Character Controller
 
 # 後期7回目(12/1)
 ## 話題
