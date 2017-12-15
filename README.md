@@ -15,6 +15,9 @@
 - 休み前に完成させておくと楽なので推奨
 
 # 後期9回目(12/15)
+## 今日の動画
+- https://www.youtube.com/watch?v=UEkxKx36kuQ
+
 ## 予定
 - オブジェクト指向プログラミング：staticの次から [前回の完成プロジェクト](https://am1.jp/dat/object-practice-2016-01.zip)
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
