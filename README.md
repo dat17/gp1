@@ -14,23 +14,33 @@
 - すでに現在開発中のものがあれば、それでよい
 - 休み前に完成させておくと楽なので推奨
 
-# 後期9回目(12/15)
-## 今日の動画
-- https://www.youtube.com/watch?v=UEkxKx36kuQ
-- 2コマ目 https://www.youtube.com/watch?v=11ycHdpDhDg
-
+# 後期10回目(12/22)
 ## 予定
-- オブジェクト指向プログラミング：staticの次から [前回の完成プロジェクト](https://am1.jp/dat/object-practice-2016-01.zip)
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
-  - [前回のプロジェクト](https://am1.jp/unity/RigidbodyRensyu171208.zip)
-  - Character Controller
-    - FPS動作の着地処理から
+  - [前回のプロジェクト](https://am1.jp/unity/RigidbodyRensyu171215.zip)
+    - Character Controller
+    - FPS操作
+    - 斜面をうまく降りる
+    - ジャンプの高さを変える
     - TPSの動き
   - 高速移動時の対応
 - 練習問題
   - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
   - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
   - 指示に従ってGoogleドキュメントに貼り付けて共有せよ
+- 正月作品
+
+# 後期9回目(12/15)
+## 今日の動画
+- https://www.youtube.com/watch?v=UEkxKx36kuQ
+- 2コマ目 https://www.youtube.com/watch?v=11ycHdpDhDg
+
+## 内容
+- オブジェクト指向プログラミング：staticの次から [前回の完成プロジェクト](https://am1.jp/dat/object-practice-2016-01.zip)
+- Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
+  - [前回のプロジェクト](https://am1.jp/unity/RigidbodyRensyu171208.zip)
+  - Character Controller
+    - FPS動作の着地処理
 
 ## 時間があれば
 - TextMesh Proのマテリアルの要素をAnimationさせる
