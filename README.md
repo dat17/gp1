@@ -17,6 +17,7 @@
 # 後期9回目(12/15)
 ## 今日の動画
 - https://www.youtube.com/watch?v=UEkxKx36kuQ
+- 2コマ目 https://www.youtube.com/watch?v=11ycHdpDhDg
 
 ## 予定
 - オブジェクト指向プログラミング：staticの次から [前回の完成プロジェクト](https://am1.jp/dat/object-practice-2016-01.zip)
