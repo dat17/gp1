@@ -15,6 +15,15 @@
 - 休み前に完成させておくと楽なので推奨
 
 # 後期10回目(12/22)
+## 話題
+- https://github.com/modesttree/Projeny がよさそう
+  - Unityのパッケージマネージャー
+  - Asset Storeでダウンロードしたパッケージを管理できる
+  - プロジェクト間でアセットを共有できる
+  - プロジェクトをパッケージ別にまとめて、依存関係で管理することができる
+  - 英語情報しかないので使い方をまとめ中
+- 水曜だけでできたものお披露目
+
 ## 予定
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - [前回のプロジェクト](https://am1.jp/unity/RigidbodyRensyu171215.zip)
@@ -28,7 +37,7 @@
   - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
   - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
   - 指示に従ってGoogleドキュメントに貼り付けて共有せよ
-- 正月作品
+- 正月作品の制作
 
 # 後期9回目(12/15)
 ## 今日の動画
