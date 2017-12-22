@@ -24,15 +24,83 @@
   - 英語情報しかないので使い方をまとめ中
 - 水曜だけでできたものお披露目
 
-## 予定
+## 今日の動画
+- cinemachine https://www.youtube.com/watch?v=cdR8o5uiOVE
+
+## 内容
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
   - [前回のプロジェクト RigidbodyRensyu](https://am1.jp/unity/RigidbodyRensyu171215.zip)
-    - Character Controller
-    - FPS操作
     - 斜面をうまく降りる
-    - ジャンプの高さを変える
-    - TPSの動き
-  - 高速移動時の対応
+
+```cs
+	void Update () {
+        Vector3 motion = Vector3.zero;
+
+        // 着地時
+        if (chr.isGrounded)
+        {
+            velY = 0f;
+
+            // ジャンプ
+            //// 初速
+            if (Input.GetButtonDown("Jump"))
+            {
+                velY = JUMP_POWER;
+            }
+        }
+        else
+        {
+            // 上昇中断
+            if (((chr.collisionFlags & CollisionFlags.Above) != 0) && (velY > 0f))
+            {
+                velY = 0f;
+            }
+        }
+        lastGrounded = chr.isGrounded;
+
+        // 重力落下をプログラム
+        //// 今回のフレームでの重力加速
+        velY += Physics.gravity.y * Time.deltaTime;
+        //// 落下の設定
+        motion.y = velY * Time.deltaTime;
+
+        // 水平移動
+        motion.z = Input.GetAxisRaw("Vertical")
+            * SPEED * Time.deltaTime;
+
+        // 着地時は、次の足場があるかチェック
+        if (chr.isGrounded && (velY <= 0f))
+        {
+            // 足場チェック
+            Vector3 next = transform.position + motion;
+            RaycastHit hit;
+            Vector3 p1 = next + chr.center + Vector3.up * -(chr.height * 0.5F-chr.radius);
+            Vector3 p2 = p1 + Vector3.up * (chr.height - chr.radius * 2f);
+
+            // 次の移動先から段差分下げて、地面に衝突するか
+            if (Physics.CapsuleCast(
+                p1,
+                p2,
+                chr.radius,
+                -transform.up,
+                out hit,
+                chr.stepOffset))
+            {
+                // 段差分下げて、足場があれば、下げてよい
+                motion.y -= chr.stepOffset;
+            }
+        }
+
+        chr.Move(motion);
+    }
+```
+
+- Cinemachine
+
+- FPS操作
+- ジャンプの高さを変える
+- TPSの動き
+- 高速移動時の対応
 - 練習問題
   - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
   - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
