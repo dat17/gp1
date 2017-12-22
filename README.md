@@ -26,7 +26,7 @@
 
 ## 予定
 - Physics https://docs.unity3d.com/ja/current/Manual/PhysicsOverview.html
-  - [前回のプロジェクト](https://am1.jp/unity/RigidbodyRensyu171215.zip)
+  - [前回のプロジェクト RigidbodyRensyu](https://am1.jp/unity/RigidbodyRensyu171215.zip)
     - Character Controller
     - FPS操作
     - 斜面をうまく降りる
