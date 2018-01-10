@@ -15,11 +15,18 @@
 - 休み前に完成させておくと楽なので推奨
 
 # 後期11回目(1/12)
+## 話題
+- [Unity1週間ゲームジャム Meetup in Tokyo #1 ](https://connpass.com/event/74062/?utm_campaign=event_message_to_selected_participant&utm_source=notifications&utm_medium=email&utm_content=text_detail_url)に行ってきます。そこで作品展示したいです
+
 ## 予定
 - WebGLビルド
   - WebGLビルドに失敗した場合、Unity Collaboにアップロードして、教卓PCのVR-PCでビルドします
 - 評価シート作成
 - 正月作品 発表
+- Unity2017.3のインストール
+  - 2017.1.1は残さずに、上書きインストールでよい
+  - AndroidとWebGLにチェック
+  - Android SDKもインストール
 
 # 後期10回目(12/22)
 ## 話題
