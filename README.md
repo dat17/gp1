@@ -26,7 +26,7 @@
 - Unity2017.3のインストール
   - 2017.1.1は残さずに、上書きインストールでよい
   - AndroidとWebGLにチェック
-  - Android SDKもインストール
+  - Android SDKもインストール http://am1tanaka.hatenablog.com/entry/2016/04/05/230542#Android-SDK
 
 # 後期10回目(12/22)
 ## 話題
