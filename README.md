@@ -17,6 +17,8 @@
 # 後期11回目(1/12)
 ## 話題
 - [Unity1週間ゲームジャム Meetup in Tokyo #1 ](https://connpass.com/event/74062/?utm_campaign=event_message_to_selected_participant&utm_source=notifications&utm_medium=email&utm_content=text_detail_url)に行ってきます。そこで作品展示したいです
+- [AREA JAPAN. Unity & Autodesk 最新ゲームパイプライン紹介ウェビナー～Maya 2018.1とUnity 2017.3でFBXファイル互換は一体どうなったのか？～](https://area.autodesk.jp/event/webinar/maya-unity-game-pipeline/)
+- Unity2018.1の話題が出てきてかなり凄い感じなので、色々情報を仕入れましょう
 
 ## 予定
 - WebGLビルド
