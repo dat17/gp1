@@ -21,13 +21,13 @@
 - Unity2018.1の話題が出てきてかなり凄い感じなので、色々情報を仕入れましょう
 
 ## 予定
-- WebGLビルド
+- WebGLビルドについて
   - WebGLビルドに失敗した場合、Unity Collaboにアップロードして、教卓PCのVR-PCでビルドします
 - Unity2017.3のインストール
   - 2017.1.1は残さずに、上書きインストールでよい
   - AndroidとWebGLにチェック
-  - Android SDKもインストール http://am1tanaka.hatenablog.com/entry/2016/04/05/230542#Android-SDK
-- 評価シートに記入しながら作品と紹介ページの発表
+  - Android SDKは、自分のところだけでよい  http://am1tanaka.hatenablog.com/entry/2016/04/05/230542#Android-SDK
+- 2コマ目：評価シートに記入しながら作品と紹介ページの発表
 
 # 後期10回目(12/22)
 ## 話題
