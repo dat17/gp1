@@ -14,20 +14,33 @@
 - すでに現在開発中のものがあれば、それでよい
 - 休み前に完成させておくと楽なので推奨
 
+# 後期12回目(1/19)
+## 予定
+- Asset Graph Toolを使ってみる
+  - https://docs.google.com/document/d/1yTkHZch5EaDBCria6I3Xy5UtqrfFx8n9jU1WHre-w0U/edit#heading=h.v6lo8s3ttkod
+- Rigidbody続き
+  - FPS操作
+  - ジャンプの高さを変える
+  - TPSの動き
+  - 高速移動時の対応
+  - 練習問題
+    - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
+    - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
+    - 指示に従ってGoogleドキュメントに貼り付けて共有せよ
+
 # 後期11回目(1/12)
 ## 話題
 - [Unity1週間ゲームジャム Meetup in Tokyo #1 ](https://connpass.com/event/74062/?utm_campaign=event_message_to_selected_participant&utm_source=notifications&utm_medium=email&utm_content=text_detail_url)に行ってきます。そこで作品展示したいです
 - [AREA JAPAN. Unity & Autodesk 最新ゲームパイプライン紹介ウェビナー～Maya 2018.1とUnity 2017.3でFBXファイル互換は一体どうなったのか？～](https://area.autodesk.jp/event/webinar/maya-unity-game-pipeline/)
 - Unity2018.1の話題が出てきてかなり凄い感じなので、色々情報を仕入れましょう
 
-## 予定
+## 内容
 - WebGLビルドについて
   - WebGLビルドに失敗した場合、Unity Collaboにアップロードして、教卓PCのVR-PCでビルドします
 - Unity2017.3のインストール
   - 2017.1.1は残さずに、上書きインストールでよい
   - AndroidとWebGLにチェック
   - Android SDKは、自分のところだけでよい  http://am1tanaka.hatenablog.com/entry/2016/04/05/230542#Android-SDK
-- 2コマ目：評価シートに記入しながら作品と紹介ページの発表
 
 # 後期10回目(12/22)
 ## 話題
@@ -111,15 +124,6 @@
 ```
 
 - Cinemachine
-
-- FPS操作
-- ジャンプの高さを変える
-- TPSの動き
-- 高速移動時の対応
-- 練習問題
-  - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
-  - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
-  - 指示に従ってGoogleドキュメントに貼り付けて共有せよ
 - 正月作品の制作
 
 # 後期9回目(12/15)
