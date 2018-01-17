@@ -9,9 +9,15 @@
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 後期12回目(1/19)
+## 話題
+- Asset Graph Tool
+  - アセットバンドルをグラフィカルに構築するツール
+  - 5.6には使えた少し古いツール
+  - アセットバンドル以外の用途でも、一括してテクスチャーを変換したい場合などに使えるもよう
+  - [テラシュールブログ. 【Unity】AssetGraphTool、ノーコーディングで 「指定フォルダにインポートしたアセットの設定を、指定した内容に自動更新する」 機能を作る](http://tsubakit1.hateblo.jp/entry/2018/01/11/233824)
+  - [公式マニュアル](https://docs.google.com/document/d/1yTkHZch5EaDBCria6I3Xy5UtqrfFx8n9jU1WHre-w0U/edit#heading=h.v6lo8s3ttkod)
+
 ## 予定
-- Asset Graph Toolを使ってみる
-  - https://docs.google.com/document/d/1yTkHZch5EaDBCria6I3Xy5UtqrfFx8n9jU1WHre-w0U/edit#heading=h.v6lo8s3ttkod
 - Rigidbody続き
   - FPS操作
   - ジャンプの高さを変える
