@@ -18,7 +18,7 @@
   - [公式マニュアル](https://docs.google.com/document/d/1yTkHZch5EaDBCria6I3Xy5UtqrfFx8n9jU1WHre-w0U/edit#heading=h.v6lo8s3ttkod)
 
 ## 予定
-- Rigidbody続き
+- Rigidbody続き RigidbodyRensyuを開く。ない場合は https://am1.jp/dat/RigidbodyRensyu180119.zip
   - FPS操作
   - ジャンプの高さを変える
   - TPSの動き
