@@ -13,6 +13,10 @@
 - WebGLビルドが失敗した時の対処
   - Gzip圧縮でエラーが発生していたようです。とりあえずの対処は無圧縮でビルドしてください → http://am1tanaka.hatenablog.com/entry/2018/01/17/154649
 - [Unity+MAYAウェビナーのメモ](https://twitter.com/am1tanaka/status/953857239286128640)
+  - [Unity FBX Exporter](https://assetstore.unity.com/packages/essentials/fbx-exporter-beta-101408)
+  - [iCrone](https://www.reallusion.com/store/product.html?l=4&p=ic)
+  - [Alembic Importer](https://github.com/unity3d-jp/AlembicImporter)
+  - [MASH. MAYAのプラグイン](https://knowledge.autodesk.com/ja/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/JPN/Maya/files/GUID-5F45C398-D87D-424E-9F00-51D9FAB5A40B-htm.html)
 - Asset Graph Tool
   - アセットバンドルをグラフィカルに構築するツール
   - 5.6には使えた少し古いツール
