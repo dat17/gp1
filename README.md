@@ -26,9 +26,9 @@
 
 ## 予定
 - Rigidbody続き RigidbodyRensyuを開く。ない場合は https://am1.jp/dat/RigidbodyRensyu180117.zip
-  - FPS操作
+  - [旋回型のプレイヤー操作](https://github.com/dat17/gp1/wiki/%E6%97%8B%E5%9B%9E%E5%9E%8B%E3%81%AE%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E6%93%8D%E4%BD%9C)
   - ジャンプの高さを変える
-  - TPSの動き
+  - 上下左右で移動するプレイヤー
   - 高速移動時の対応
   - 練習問題
     - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
