@@ -12,6 +12,7 @@
 ## 話題
 - WebGLビルドが失敗した時の対処
   - Gzip圧縮でエラーが発生していたようです。とりあえずの対処は無圧縮でビルドしてください → http://am1tanaka.hatenablog.com/entry/2018/01/17/154649
+- [Unity+MAYAウェビナーのメモ](https://twitter.com/am1tanaka/status/953857239286128640)
 - Asset Graph Tool
   - アセットバンドルをグラフィカルに構築するツール
   - 5.6には使えた少し古いツール
