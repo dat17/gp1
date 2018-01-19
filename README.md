@@ -24,6 +24,9 @@
   - [テラシュールブログ. 【Unity】AssetGraphTool、ノーコーディングで 「指定フォルダにインポートしたアセットの設定を、指定した内容に自動更新する」 機能を作る](http://tsubakit1.hateblo.jp/entry/2018/01/11/233824)
   - [公式マニュアル](https://docs.google.com/document/d/1yTkHZch5EaDBCria6I3Xy5UtqrfFx8n9jU1WHre-w0U/edit#heading=h.v6lo8s3ttkod)
 
+## 今日の動画
+- https://www.youtube.com/watch?v=p0yaydFe6J4
+
 ## 予定
 - Rigidbody続き RigidbodyRensyuを開く。ない場合は https://am1.jp/dat/RigidbodyRensyu180117.zip
   - [旋回型のプレイヤー操作](https://github.com/dat17/gp1/wiki/%E6%97%8B%E5%9B%9E%E5%9E%8B%E3%81%AE%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E6%93%8D%E4%BD%9C)
