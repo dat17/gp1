@@ -27,6 +27,7 @@
 ## 予定
 - Rigidbody続き RigidbodyRensyuを開く。ない場合は https://am1.jp/dat/RigidbodyRensyu180117.zip
   - [旋回型のプレイヤー操作](https://github.com/dat17/gp1/wiki/%E6%97%8B%E5%9B%9E%E5%9E%8B%E3%81%AE%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E6%93%8D%E4%BD%9C)
+  - メモを残したい人は https://gist.github.com/tanakaedu/d6f166173abeb4c197757f56f3e28e65/raw/71ce8a6bc3326d774a59ee086572ab325848c907/TurningPlayerMakingMemo.md を自分のwikiなどへ
   - ジャンプの高さを変える
   - 上下左右で移動するプレイヤー
   - 高速移動時の対応
