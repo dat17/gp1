@@ -11,6 +11,7 @@
 # 後期13回目(1/26)
 ## 話題
 - [paiza作問責任者&人気企業とpizzaを食べながらもぐもぐ勉強会 #2](https://peatix.com/event/320026)
+- [Unityライティングのチュートリアル](https://www.youtube.com/watch?v=VnG2gOKV9dw&feature=youtu.be)
 
 ## 回転について
 - 前回、かなり分かりづらくなってしまったので、改めてこちらに説明があります http://www.geisya.or.jp/~mwm48961/kou2/linear_image3.html
