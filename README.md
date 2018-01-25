@@ -9,6 +9,9 @@
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 後期13回目(1/26)
+## 話題
+- [paiza作問責任者&人気企業とpizzaを食べながらもぐもぐ勉強会 #2](https://peatix.com/event/320026)
+
 ## 回転について
 - 前回、かなり分かりづらくなってしまったので、改めてこちらに説明があります http://www.geisya.or.jp/~mwm48961/kou2/linear_image3.html
   - 前回やったのは、これの説明2ですね
