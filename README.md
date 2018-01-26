@@ -12,6 +12,8 @@
 ## 話題
 - [paiza作問責任者&人気企業とpizzaを食べながらもぐもぐ勉強会 #2](https://peatix.com/event/320026)
 - [Unityライティングのチュートリアル](https://www.youtube.com/watch?v=VnG2gOKV9dw&feature=youtu.be)
+- [Unity道場. 物理シミュレーションのスライド](https://twitter.com/nyaa_toraneko/status/956506148550488065)
+- [Unity2018.1から導入されるShader Graphのサンプルライブラリー](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
 
 ## 回転について
 - 前回、かなり分かりづらくなってしまったので、改めてこちらに説明があります http://www.geisya.or.jp/~mwm48961/kou2/linear_image3.html
