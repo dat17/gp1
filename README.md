@@ -19,6 +19,9 @@
 - 前回、かなり分かりづらくなってしまったので、改めてこちらに説明があります http://www.geisya.or.jp/~mwm48961/kou2/linear_image3.html
   - 前回やったのは、これの説明2ですね
 
+## 今日の動画
+- https://www.youtube.com/watch?v=fP300HM9NLw
+
 ## 予定
 - Rigidbody続き RigidbodyRensyuを開く。ない場合は https://am1.jp/dat/RigidbodyRensyu180126.zip
   - [旋回型のプレイヤー操作 前進、後退](https://github.com/dat17/gp1/wiki/%E6%97%8B%E5%9B%9E%E5%9E%8B%E3%81%AE%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E6%93%8D%E4%BD%9C)
