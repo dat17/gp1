@@ -14,6 +14,7 @@
 - [Unityライティングのチュートリアル](https://www.youtube.com/watch?v=VnG2gOKV9dw&feature=youtu.be)
 - [Unity道場. 物理シミュレーションのスライド](https://twitter.com/nyaa_toraneko/status/956506148550488065)
 - [Unity2018.1から導入されるShader Graphのサンプルライブラリー](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
+- [Unity Hub Beta](http://am1tanaka.hatenablog.com/entry/2018/01/25/171336)
 
 ## 回転について
 - 前回、かなり分かりづらくなってしまったので、改めてこちらに説明があります http://www.geisya.or.jp/~mwm48961/kou2/linear_image3.html
