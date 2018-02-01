@@ -8,6 +8,20 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 後期14回目(2/2)
+## 話題
+- [Unityアセット無料お試し会0214@Future Tech Hub with Unity. 2/14(水)18時から茅場町方面](https://peatix.com/event/347047)
+
+## 予定
+- Rigidbody続き RigidbodyRensyuを開く
+  - メモを残したい人は https://gist.github.com/tanakaedu/d6f166173abeb4c197757f56f3e28e65/raw/71ce8a6bc3326d774a59ee086572ab325848c907/TurningPlayerMakingMemo.md を自分のwikiなどへ
+  - 高速移動時の対応
+  - 練習問題
+    - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
+    - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
+    - 指示に従ってGoogleドキュメントに貼り付けて共有せよ
+- paizaの練習
+
 # 後期13回目(1/26)
 ## 話題
 - [paiza作問責任者&人気企業とpizzaを食べながらもぐもぐ勉強会 #2](https://peatix.com/event/320026)
@@ -23,17 +37,12 @@
 ## 今日の動画
 - https://www.youtube.com/watch?v=fP300HM9NLw
 
-## 予定
+## 内容
 - Rigidbody続き RigidbodyRensyuを開く。ない場合は https://am1.jp/dat/RigidbodyRensyu180126.zip
   - [旋回型のプレイヤー操作 前進、後退](https://github.com/dat17/gp1/wiki/%E6%97%8B%E5%9B%9E%E5%9E%8B%E3%81%AE%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E6%93%8D%E4%BD%9C)
   - メモを残したい人は https://gist.github.com/tanakaedu/d6f166173abeb4c197757f56f3e28e65/raw/71ce8a6bc3326d774a59ee086572ab325848c907/TurningPlayerMakingMemo.md を自分のwikiなどへ
   - ジャンプの高さを変える
   - 上下左右で移動するプレイヤー
-  - 高速移動時の対応
-  - 練習問題
-    - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
-    - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
-    - 指示に従ってGoogleドキュメントに貼り付けて共有せよ
 - paizaの練習
 
 # 後期12回目(1/19)
