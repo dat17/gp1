@@ -21,6 +21,7 @@
     - test1とtest2が完成したら、保存をしてUnityを閉じて、指定のフォルダーにコピーして提出せよ
     - 指示に従ってGoogleドキュメントに貼り付けて共有せよ
 - paizaの練習
+  - https://paiza.jp/works/php/basicnew/unagi-new
 
 # 後期13回目(1/26)
 ## 話題
