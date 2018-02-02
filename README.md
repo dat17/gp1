@@ -11,10 +11,12 @@
 # 後期14回目(2/2)
 ## 話題
 - [Unityアセット無料お試し会0214@Future Tech Hub with Unity. 2/14(水)18時から茅場町方面](https://peatix.com/event/347047)
+- [お題にチャレンジ! 2017年02月01日（木）〜2018年02月13日（火）](http://assetstore.info/eventandcontest/themechallenge/happyvalentine/)
+- [株式会社ダイダロス](http://www.daidalos.co.jp/)
+  - 求人があったので
 
 ## 予定
-- Rigidbody続き RigidbodyRensyuを開く
-  - メモを残したい人は https://gist.github.com/tanakaedu/d6f166173abeb4c197757f56f3e28e65/raw/71ce8a6bc3326d774a59ee086572ab325848c907/TurningPlayerMakingMemo.md を自分のwikiなどへ
+- Rigidbody続き
   - 高速移動時の対応
   - 練習問題
     - [CollisionRensyu](https://github.com/dat17/gp1/raw/master/CollisionRensyu.zip)をダウンロードして、Unityで開く。test1とtest2という2つのシーンがあり、それぞれに問題が表示されるので、指示通りに操作をして、解答せよ
