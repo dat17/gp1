@@ -16,7 +16,7 @@
 - [東京都オープンデータカタログサイト](http://opendata-portal.metro.tokyo.jp/www/index.html)
   - [アプリコンテスト](http://opendata-portal.metro.tokyo.jp/contest2017.html)
 
-## 予定
+## 内容
 - Rigidbody続き
   - 高速移動時の対応
   - 練習問題
